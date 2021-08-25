@@ -3,13 +3,13 @@
 - I'm a 20 year old man from Brazil
 - Currently studying offensive security
 - Starter bug hunter at **HackerOne** -> [Profile]
-- Amazed with the power of shell script coding and linux systems! [<img align="left" alt="Terminal" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Shell]
+- Amazed with the power of shell script coding and linux systems!
 
 </br>
 
 ### Contacts:
 
-- My [discord]
+[<img align="center" alt="Discord Contact" width="24px" src="https://icon-library.com/images/discord-user-icon/discord-user-icon-16.jpg" />][discord] - My [discord]
 
 
 <!-- Links -->
