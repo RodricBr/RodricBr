@@ -1,6 +1,6 @@
 ### Hello, World!
 
-- I'm a 20 year old man from _Brazil_ 🇧🇷
+- I'm a 20 year old man from _Brazil_ [🇧🇷]
 - Currently studying offensive security
 - Starter bug hunter at **HackerOne** -> [Profile]
 - Amazed with the power of shell script coding and linux systems!
