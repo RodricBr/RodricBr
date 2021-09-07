@@ -1,9 +1,9 @@
 ### Hello, World!
 
 - I'm a 20 year old man from _Brazil_ [🇧🇷]
-- Currently studying offensive security
+- Currently studying web offensive security (Web application security analyst)
 - Starter bug hunter at **HackerOne** -> [Profile]
-- Amazed with the power of shell script coding and linux systems!
+- Amazed with the power of shell scripting and linux/unix-like systems!
 
 </br>
 
