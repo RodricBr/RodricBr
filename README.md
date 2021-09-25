@@ -7,8 +7,6 @@
 
 </br>
 
-<hr>
-
 <p>Contador de visitas:</p>
 <img src="https://profile-counter.glitch.me/rodricbr/count.svg">
 <!--
