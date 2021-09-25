@@ -15,9 +15,10 @@
 
 <p>Contador de visitas:</p>
 <img src="https://profile-counter.glitch.me/rodricbr/count.svg">
-// Fazendo request em loop pro contador hehehe >:D
-// for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg | head -n 5 &/dev/null; done
-
+<!--
+Fazendo request em loop pro contador hehehe >:D
+for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg | head -n 5 &/dev/null; done
+-->
 ### Languages & Knowledge:
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
