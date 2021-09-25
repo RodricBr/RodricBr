@@ -14,7 +14,7 @@
 </br>
 
 <p>Contador de visitas:</p>
-<img src="https://profile-counter.glitch.me/kg1102/count.svg">
+<img src="https://profile-counter.glitch.me/rodricbr/count.svg">
 
 ### Languages & Knowledge:
 
