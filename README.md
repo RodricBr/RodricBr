@@ -7,11 +7,13 @@
 
 </br>
 
+---
+
 ### Contacts:
 
 [<img align="center" alt="Discord Contact" width="24px" src="https://icon-library.com/images/discord-user-icon/discord-user-icon-16.jpg" />][discord] -> **Rodric#3221**
 
-</br>
+---
 
 <p>Contador de visitas:</p>
 <img src="https://profile-counter.glitch.me/rodricbr/count.svg">
