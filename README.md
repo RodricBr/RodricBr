@@ -15,6 +15,8 @@
 
 <p>Contador de visitas:</p>
 <img src="https://profile-counter.glitch.me/rodricbr/count.svg">
+// Fazendo request em loop pro contador hehehe >:D
+// for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg | head -n 5 &/dev/null; done
 
 ### Languages & Knowledge:
 
