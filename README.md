@@ -7,7 +7,7 @@
 
 </br>
 
-<p>Contador de visitas:</p>
+<p>Profile view counter:</p>
 <img src="https://profile-counter.glitch.me/rodricbr/count.svg">
 <!--
 Fazendo request em loop pro contador hehehe >:D
