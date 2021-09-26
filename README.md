@@ -28,7 +28,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Shell](https://img.shields.io/badge/Shell-inactive?style=flat-square&logo=shell)
-![Gnu/Linux](https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux)
+![Gnu/Linux](https://img.shields.io/badge/Linux-grey?style=flat-square&logo=linux)
 
 <img align="left" alt="Linux Systems" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 
