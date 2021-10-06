@@ -30,8 +30,8 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 ![Shell](https://img.shields.io/badge/Shell-inactive?style=flat-square&logo=shell)
 ![Gnu/Linux](https://img.shields.io/badge/Linux-grey?style=flat-square&logo=linux)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=dracula)
-![Info](https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=full&langs_count=7&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=dracula&border_radius=0)
+![Info](https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=full&langs_count=7&theme=dracula&border_radius=0)
 
 <!-- <img align="left" alt="Linux Systems" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> -->
 
