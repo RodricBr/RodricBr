@@ -18,7 +18,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 
 ### Contacts:
 
-[<img align="center" alt="Discord Contact" width="24px" src="https://icon-library.com/images/discord-user-icon/discord-user-icon-16.jpg" />][discord] -> **Rodric#3221**
+[<img align="center" alt="Discord Contact" width="24px" src="https://icon-library.com/images/discord-user-icon/discord-user-icon-16.jpg" />][discord] >> **Rodric#3221**
 
 ---
 
@@ -29,6 +29,8 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Shell](https://img.shields.io/badge/Shell-inactive?style=flat-square&logo=shell)
 ![Gnu/Linux](https://img.shields.io/badge/Linux-grey?style=flat-square&logo=linux)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=dracula)
 
 <img align="left" alt="Linux Systems" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 
