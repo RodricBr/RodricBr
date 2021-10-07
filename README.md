@@ -37,7 +37,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 ![Info](https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=full&langs_count=7&theme=dracula&border_radius=0&text_color=7FFF7F)
 
 </br>
-**PS**: I post a lot of learning content that I've gathered and random knowledge
+PS: I post a lot of learning content that I've gathered and random knowledge
 
 <!-- <img align="left" alt="Linux Systems" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> -->
 
