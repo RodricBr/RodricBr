@@ -36,7 +36,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 
 </br>
 <h4 align="center">PS: I post a lot of learning content that I've gathered and random knowledge</h4>
-
+green letters are fashion!
 <!-- <img align="left" alt="Linux Systems" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> -->
 
 <!-- Links -->
@@ -44,4 +44,3 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 [Shell]: https://en.wikipedia.org/wiki/Shell_script
 [discord]: https://icon-library.com/images/discord-user-icon/discord-user-icon-16.jpg
 </br>
-green letters are fashion!
