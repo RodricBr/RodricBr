@@ -1,4 +1,4 @@
-<h2 align="center">Hello, World!</h2>
+### Hello, World!
 
 - I'm a 20 year old man from _Brazil_ [🇧🇷]
 - Currently studying web offensive security (Web application security analyst)
