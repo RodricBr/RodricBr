@@ -32,7 +32,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 <!-- text_color em hexadecimal -->
 <!-- layout full pra aparecer detalhes em lista -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=dracula&border_radius=0&text_color=7FFF7F)
-![Info](https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=full&langs_count=7&theme=dracula&border_radius=0&text_color=7FFF7F)
+![Info](https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=7&theme=dracula&border_radius=0&text_color=7FFF7F)
 
 </br>
 <h3 align="center">PS: I post a lot of learning content that I've gathered and random knowledge</h4>
