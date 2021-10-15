@@ -4,7 +4,6 @@
 - Currently studying web offensive security (Web application security analyst)
 - Junior bug hunter at **HackerOne** ([Profile])
 - Amazed with the power of shell scripting and linux/unix-like systems!
-<h5>green letters are fashion!</h5>
 
 </br>
 
