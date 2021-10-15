@@ -4,6 +4,7 @@
 - Currently studying web offensive security (Web application security analyst)
 - Junior bug hunter at **HackerOne** ([Profile])
 - Amazed with the power of shell scripting and linux/unix-like systems!
+<h5>green letters are fashion!</h5>
 
 </br>
 
@@ -35,8 +36,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 ![Info](https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=7&theme=dracula&border_radius=0&text_color=7FFF7F)
 
 </br>
-<h3 align="center">PS: I post a lot of learning content that I've gathered and random knowledge</h4>
-<h5 align="center">green letters are fashion!</h5>
+<h4 align="center">PS: I post a lot of learning content that I've gathered and random knowledge</h4>
 <!-- <img align="left" alt="Linux Systems" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> -->
 
 <!-- Links -->
