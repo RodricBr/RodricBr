@@ -31,11 +31,8 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 <!-- border_radius 0 pra ficar com borda quadrada -->
 <!-- text_color em hexadecimal -->
 <!-- layout full pra aparecer detalhes em lista -->
-<div>
-<a href="https://github.com/RodricBr">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true)
-  ![Info](https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=7&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true)
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true)
+![Info](https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=7&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true)
 
 </br>
 <h4 align="center">PS: I post a lot of learning content that I've gathered and random knowledge</h4>
