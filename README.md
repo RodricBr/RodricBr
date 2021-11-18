@@ -27,6 +27,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Shell](https://img.shields.io/badge/Shell-inactive?style=flat-square&logo=shell)
 ![Gnu/Linux](https://img.shields.io/badge/Linux-grey?style=flat-square&logo=linux)
+![C](https://img.shields.io/badge/C%20Language-grey?style=flat-square&logo=c)
 
 <!-- border_radius 0 pra ficar com borda quadrada -->
 <!-- text_color em hexadecimal -->
