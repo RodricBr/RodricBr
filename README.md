@@ -38,7 +38,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
   
   <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"/>
   
-  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/C%20Language-grey?style=flat-square&logo=c"/>
+  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/C%20Language-grey?style=flat-square&logo=c">
   
   <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="ttps://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3"/>
   
