@@ -66,6 +66,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 </a>
 </p>
 
+<br>
 <h4 align="center">"Knowledge is power. Knowledge shared is power multiplied"</h4>
 <!-- <img align="left" alt="Linux Systems" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> -->
 
