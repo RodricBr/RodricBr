@@ -34,17 +34,17 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 
 <p align="center">
   
-  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff"/>
+  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff">
   
-  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"/>
+  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
   
   <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/C%20Language-grey?style=flat-square&logo=c">
   
-  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="ttps://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3"/>
+  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="ttps://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
   
-  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/Shell-inactive?style=flat-square&logo=GNU+Bash&color=4EAA25&logoColor=FFFFFF"/>
+  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/Shell-inactive?style=flat-square&logo=GNU+Bash&color=4EAA25&logoColor=FFFFFF">
   
-  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/Debian-grey?style=flat-square&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF"/>
+  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/Debian-grey?style=flat-square&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF">
   
 </p>
 
@@ -58,15 +58,14 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 
 <p align="center">
 <a href="https://github.com/rodricbr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr">
     <br>
     <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=7&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=7&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr">
     <br>
 </a>
 </p>
 
-</br>
 <h4 align="center">PS: I post a lot of learning content that I've gathered and random knowledge</h4>
 <!-- <img align="left" alt="Linux Systems" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /> -->
 
