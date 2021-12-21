@@ -46,14 +46,25 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
   
   <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/Debian-grey?style=flat-square&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF"/>
   
-
 </p>
 
 <!-- border_radius 0 pra ficar com borda quadrada -->
 <!-- text_color em hexadecimal -->
 <!-- layout full pra aparecer detalhes em lista -->
+<!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true)
 ![Info](https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=7&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true)
+-->
+
+<p align="center">
+<a href="https://github.com/rodricbr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr"/>
+    <br>
+    <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=7&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr"/>
+    <br>
+</a>
+</p>
 
 </br>
 <h4 align="center">PS: I post a lot of learning content that I've gathered and random knowledge</h4>
