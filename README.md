@@ -28,7 +28,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 ![C](https://img.shields.io/badge/C%20Language-grey?style=flat-square&logo=c)
 ![Shell](https://img.shields.io/badge/Shell-inactive?style=flat-square&logo=GNU+Bash&color=4EAA25&logoColor=FFFFFF)
 ![Gnu/Linux](https://img.shields.io/badge/Linux-grey?style=flat-square&logo=linux)
-![Debian](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=)
+![Debian](https://img.shields.io/badge/message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=)
 
 <!-- border_radius 0 pra ficar com borda quadrada -->
 <!-- text_color em hexadecimal -->
