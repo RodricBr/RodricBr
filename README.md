@@ -22,6 +22,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 
 ### Languages & Knowledge:
 
+<!--
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -29,6 +30,15 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 ![Shell](https://img.shields.io/badge/Shell-inactive?style=flat-square&logo=GNU+Bash&color=4EAA25&logoColor=FFFFFF)
 ![Gnu/Linux](https://img.shields.io/badge/Linux-grey?style=flat-square&logo=linux)
 ![Debian](https://img.shields.io/badge/Debian-grey?style=flat-square&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF)
+-->
+
+<p align="center">
+  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff"/>
+  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"/>
+  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="ttps://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3"/>
+  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/C%20Language-grey?style=flat-square&logo=c"/>
+
+</p>
 
 <!-- border_radius 0 pra ficar com borda quadrada -->
 <!-- text_color em hexadecimal -->
