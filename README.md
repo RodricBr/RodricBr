@@ -1,4 +1,4 @@
-### Hello, World! :octocat: </br>
+### :octocat: Hello, World! </br>
 
 - I'm a 20 year old man from _Brazil_ [🇧🇷]
 - Currently studying web offensive security (Web application security analyst)
