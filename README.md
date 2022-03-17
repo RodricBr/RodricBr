@@ -44,7 +44,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
   
   <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="CSS3">
   
-  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/Shell-inactive?style=flat-square&logo=GNU+Bash&color=4EAA25&logoColor=FFFFFF" alt="Shell and Bash">
+  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/Shell/Bash-inactive?style=flat-square&logo=GNU+Bash&color=4EAA25&logoColor=FFFFFF" alt="Shell and Bash">
   
   <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/Debian-grey?style=flat-square&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF" alt="Debian">
   
