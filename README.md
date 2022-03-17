@@ -1,9 +1,9 @@
 ### :octocat: Hello, World! </br>
 
 - I'm a **20 year old man** from **Brazil**
-- Currently studying web offensive security (Web application security analyst)
-- Bug hunter at **HackerOne** ([Profile])
-- Amazed with the power of shell scripting and linux/unix-like systems!
+- Currently studying for **Red Team**, focusing on **Web application security**
+- Bug Hunter at **HackerOne** ([Profile])
+- Amazed with the power of Shell/Bash Scripting and GNU/Linux / Unix-like systems!
 
 </br>
 
