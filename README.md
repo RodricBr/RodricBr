@@ -1,4 +1,4 @@
-### /# echo "Hello, World!" :octocat: </br>
+### echo "Hello, World!" :octocat: </br>
 
 - I'm a **20 year old man** from **Brazil**
 - Currently studying for **Red Team**, focusing on **Web application security**
