@@ -1,6 +1,6 @@
 ### :octocat: Hello, World! </br>
 
-- I'm a 20 year old man from _Brazil_ [🇧🇷]
+- I'm a **20 year old man** from **Brazil** <img src="https://cdn-icons.flaticon.com/png/512/5344/premium/5344453.png?token=exp=1647560320~hmac=932f4281841e020342ff84bc630722fa" alt="Credits: Yaira C. Flaticon.com">
 - Currently studying web offensive security (Web application security analyst)
 - Bug hunter at **HackerOne** ([Profile])
 - Amazed with the power of shell scripting and linux/unix-like systems!
