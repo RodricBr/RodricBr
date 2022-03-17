@@ -74,6 +74,5 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 
 <!-- Links -->
 [Profile]: https://hackerone.com/rodricbr?type=user
-[Shell]: https://en.wikipedia.org/wiki/Shell_script
 [discord]: https://icon-library.com/images/discord-user-icon/discord-user-icon-16.jpg
 </br>
