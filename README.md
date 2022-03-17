@@ -63,7 +63,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr">
     <br>
     <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=7&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=8&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr">
     <br>
 </a>
 </p>
