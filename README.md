@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4200&color=1BC53B&height=50&lines=echo+%22Ol%C3%A1%2C+mundo!%22)](https://git.io/typing-svg)
 
-- I'm a **21 year old man** from **Brazil**
+- I'm a **21 years old man** from **Brazil**
 - Currently studying for **Red Team**, focusing on **Web application security**
 - Bug Hunter at **HackerOne** ([Profile])
 - Amazed with the power of Shell/Bash Scripting and GNU/Linux / Unix-like systems!
