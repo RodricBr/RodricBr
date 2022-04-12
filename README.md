@@ -2,8 +2,8 @@
 
 - I'm a **21 years old man** from **Brazil**
 - Currently studying for **Red Team**, focusing on **Web application security**
-- Bug Hunter at **HackerOne** ([Profile])
-- Amazed with the power of Shell/Bash Scripting and GNU/Linux / Unix-like systems!
+- Bug Hunter at **HackerOne**
+- I love doing shell/bash script automated reconnaissance tools for my bug hunting activities!
 
 </br>
 
@@ -14,11 +14,11 @@ Fazendo request em loop pro contador hehehe >:D
 for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg | head -n 5 &/dev/null; done
 -->
 
-### - Contacts:</p>
-<!--[<img align="center" alt="Discord Contact" width="24px" src="https://icon-library.com/images/discord-user-icon/discord-user-icon-16.jpg" alt="Discord" >][discord] → **Rodric#3221**-->
+### - Contacts & Other stuff:</p>
+
 > <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/Discord-inactive?style=flat-square&logo=Discord&color=214CB0&logoColor=FFFFFF" alt="Discord Contact">
 
-> 
+> <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/HackerOne-inactive?style=flat-square&logo=Hackerone&color=1B1B1B&logoColor=FFFFFF" alt="HackerOne Profile">
 
 ---
 
