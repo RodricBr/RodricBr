@@ -7,14 +7,14 @@
 
 </br>
 
-<p>Profile view counter:</p>
+<p>- Profile view counter:</p>
 <img src="https://profile-counter.glitch.me/rodricbr/count.svg">
 <!--
 Fazendo request em loop pro contador hehehe >:D
 for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg | head -n 5 &/dev/null; done
 -->
 
-### Contacts:
+<p>- Contacts:</p>
 
 > [<img align="center" alt="Discord Contact" width="24px" src="https://icon-library.com/images/discord-user-icon/discord-user-icon-16.jpg" alt="Discord" >][discord] → **Rodric#3221**
 
