@@ -20,6 +20,8 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 
 > [![](https://img.shields.io/badge/HackerOne-inactive?style=flat-square&logo=Hackerone&color=1B1B1B&logoColor=FFFFFF)](https://hackerone.com/rodricbr)
 
+> [![](https://img.shields.io/badge/Twitter-inactive?style=flat-square&logo=twitter&color=00acee&logoColor=FFFFFF)](https://twitter.com/GhosdeeriTheGod)
+
 ---
 
 <!--
