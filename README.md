@@ -64,10 +64,10 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 
 <p align="center">
 <a href="https://github.com/rodricbr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr" title="My github profile statistics">
     <br>
     <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=8&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=8&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr" title="The languages I most use on my github repositories">
     <br>
 </a>
 </p>
