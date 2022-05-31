@@ -17,12 +17,6 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 ### - Contacts & Other stuff:</p>
 <p align="center">
   <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/Discord-inactive?style=flat-square&logo=Discord&color=214CB0&logoColor=FFFFFF" alt="https://discordapp.com/users/418206745589186571" title="My Discord">
-
-<!--> [![](https://img.shields.io/badge/Discord-inactive?style=flat-square&logo=Discord&color=214CB0&logoColor=FFFFFF)](https://discordapp.com/users/418206745589186571)
-
-> [![](https://img.shields.io/badge/HackerOne-inactive?style=flat-square&logo=Hackerone&color=1B1B1B&logoColor=FFFFFF)](https://hackerone.com/rodricbr)
-
-> [![](https://img.shields.io/badge/Twitter-inactive?style=flat-square&logo=twitter&color=00acee&logoColor=FFFFFF)](https://twitter.com/GhosdeeriTheGod)-->
 </p>
 ---
 
