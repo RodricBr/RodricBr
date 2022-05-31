@@ -18,6 +18,10 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 
 <p align="center">
   <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/Discord-inactive?style=flat-square&logo=Discord&color=214CB0&logoColor=FFFFFF" alt="https://discordapp.com/users/418206745589186571" title="My Discord">
+  
+  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/Discord-inactive?style=flat-square&logo=Discord&color=214CB0&logoColor=FFFFFF" alt="https://discordapp.com/users/418206745589186571" title="My Discord">
+  
+  <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/Discord-inactive?style=flat-square&logo=Discord&color=214CB0&logoColor=FFFFFF" alt="https://discordapp.com/users/418206745589186571" title="My Discord">
 </p>
 
 ---
