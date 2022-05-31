@@ -14,10 +14,12 @@ Fazendo request em loop pro contador hehehe >:D
 for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg | head -n 5 &/dev/null; done
 -->
 
-### - Contacts & Other stuff:</p>
+<h2 align="center">Contacts & Other stuff</h2>
+
 <p align="center">
   <img style="position: relative; box-shadow: 0px 0px 5px 0px rgb(0 0 0 / 48%); border-radius: 10px 10px 10px 10px; margin: 3px;" src="https://img.shields.io/badge/Discord-inactive?style=flat-square&logo=Discord&color=214CB0&logoColor=FFFFFF" alt="https://discordapp.com/users/418206745589186571" title="My Discord">
 </p>
+
 ---
 
 <!--
@@ -30,7 +32,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 ![Debian](https://img.shields.io/badge/Debian-grey?style=flat-square&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF)
 -->
 
-<h2 align="center">Languages & Knowledge:</h2>
+<h2 align="center">Languages & Knowledge</h2>
 
 <p align="center">
   
