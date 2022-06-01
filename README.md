@@ -14,7 +14,9 @@ Fazendo request em loop pro contador hehehe >:D
 for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg | head -n 5 &/dev/null; done
 -->
 
-## Contacts & Other stuff
+<!--## - Contacts & Other stuff-->
+
+<p>- Contacts & Other stuff</p>
 
 > [![](https://img.shields.io/badge/Discord-inactive?style=flat-square&logo=Discord&color=214CB0&logoColor=FFFFFF)](https://discordapp.com/users/418206745589186571)
 
