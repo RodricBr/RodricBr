@@ -35,7 +35,7 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 ![Debian](https://img.shields.io/badge/Debian-grey?style=flat-square&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF)
 -->
 
-<h2 align="center">Languages & Knowledge</h2>
+<h2 align="center">Languages, Knowledge & My stats</h2>
 
 <p align="center">
   
