@@ -22,8 +22,6 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 [![HackerOne](https://img.shields.io/badge/HackerOne-inactive?style=flat-square&logo=Hackerone&color=1B1B1B&logoColor=FFFFFF)](https://hackerone.com/rodricbr)
 [![Twitter](https://img.shields.io/badge/Twitter-inactive?style=flat-square&logo=twitter&color=00acee&logoColor=FFFFFF)](https://twitter.com/GhosdeeriTheGod)
 
----
-
 <!--
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
