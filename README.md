@@ -18,11 +18,10 @@ for i in {1..666}; do curl https://profile-counter.glitch.me/rodricbr/count.svg 
 
 <p>- Contacts & Other stuff</p>
 
-> [![](https://img.shields.io/badge/Discord-inactive?style=flat-square&logo=Discord&color=214CB0&logoColor=FFFFFF)](https://discordapp.com/users/418206745589186571)
+[![Discord](https://img.shields.io/badge/Discord-inactive?style=flat-square&logo=Discord&color=214CB0&logoColor=FFFFFF)](https://discordapp.com/users/418206745589186571)
+[![HackerOne](https://img.shields.io/badge/HackerOne-inactive?style=flat-square&logo=Hackerone&color=1B1B1B&logoColor=FFFFFF)](https://hackerone.com/rodricbr)
+[![Twitter](https://img.shields.io/badge/Twitter-inactive?style=flat-square&logo=twitter&color=00acee&logoColor=FFFFFF)](https://twitter.com/GhosdeeriTheGod)
 
-> [![](https://img.shields.io/badge/HackerOne-inactive?style=flat-square&logo=Hackerone&color=1B1B1B&logoColor=FFFFFF)](https://hackerone.com/rodricbr)
-
-> [![](https://img.shields.io/badge/Twitter-inactive?style=flat-square&logo=twitter&color=00acee&logoColor=FFFFFF)](https://twitter.com/GhosdeeriTheGod)
 ---
 
 <!--
