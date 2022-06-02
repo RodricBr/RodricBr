@@ -57,7 +57,7 @@
     <img align="center" src="https://img.shields.io/badge/PHP%20Language-grey?style=for-the-badge&logo=php&color=7952B3&logoColor=FFFFFF" alt="PHP Language" title="PHP Programming Language"/>
   </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img align="center" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML 5" title="HTML Markup Language"/>
   </a>
   
