@@ -93,7 +93,7 @@
 
 <!-- Profile View Counter -->
 
-<h4 align="center">- Profile View Counter:</h4>
+<h4 align="center">Profile View Counter</h4>
 
 <p align="center">
   <img align="center" src="https://profile-counter.glitch.me/rodricbr/count.svg" title="Not that much :("/>
