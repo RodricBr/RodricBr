@@ -96,7 +96,7 @@
 <h4 align="center">Profile View Counter:</h4>
 
 <p align="center">
-  <a href="https://pudim.com.br/">
+  <a href="http://www.pudim.com.br/">
     <img align="center" src="https://profile-counter.glitch.me/rodricbr/count.svg" title="Totally not me refreshing the page to get 'views' >:D"/>
   </a>
 </p>
