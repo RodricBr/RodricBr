@@ -19,7 +19,7 @@
 
 <!-- Contacts -->
   
-<h2 align="center">- Contacts & Other stuff</h2>
+<h2 align="center">- Contacts & Other Stuff</h2>
 
 <p align="center">
   
@@ -41,7 +41,7 @@
 
 <!-- Langs -->
 
-<h2 align="center">- Languages, Knowledge & statistics:</h2>
+<h2 align="center">- Languages, Knowledge & Statistics:</h2>
 
 <p align="center">
   
@@ -82,14 +82,18 @@
 <!-- Stats -->
 
 <p align="center">
-<a href="https://github.com/rodricbr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr" title="My github profile statistics">
-    <br>
-    <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=8&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr" title="The languages I most use on my github repositories">
-    <br>
-</a>
+  <a href="https://github.com/rodricbr">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodricbr&show_icons=true&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr" title="My github profile statistics">
+      <br>
+      <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=8&theme=github_dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr" title="The languages I most use on my github repositories">
+      <br>
+  </a>
 </p>
+
+<!-- Profile View Counter -->
+
+<h2 align="center">- Profile View Counter:</h2>
 
 <p align="center">
   <img align="center" src="https://profile-counter.glitch.me/rodricbr/count.svg" title="Not that much :("/>
