@@ -91,6 +91,6 @@
 </a>
 </p>
 
-
-<img align="center" src="https://profile-counter.glitch.me/rodricbr/count.svg" title="Not that much :("/>
-
+<p align="center">
+  <img align="center" src="https://profile-counter.glitch.me/rodricbr/count.svg" title="Not that much :("/>
+</p>
