@@ -93,6 +93,11 @@
 
 <!-- Profile View Counter -->
 
+<!--
+Fazendo request em loop no BASH pro contador hehehe >:D
+for i in {1..1337}; do curl -sk "https://profile-counter.glitch.me/rodricbr/count.svg"; done
+-->
+
 <h4 align="center">Profile View Counter:</h4>
 
 <p align="center">
