@@ -24,7 +24,7 @@
 <p align="center">
   
   <a href="https://discordapp.com/users/418206745589186571">
-    <img align="center" src="https://img.shields.io/badge/Discord-inactive?style=for-the-badge&logo=Discord&color=214CB0&logoColor=FFFFFF" alt="Discord" />
+    <img align="center" src="https://img.shields.io/badge/Discord-inactive?style=for-the-badge&logo=Discord&color=214CB0&logoColor=FFFFFF" alt="Discord" title="Rodric#3221" />
   </a>
   
   <a href="https://hackerone.com/rodricbr">
