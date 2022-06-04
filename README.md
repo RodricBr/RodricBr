@@ -34,10 +34,11 @@
   <a href="https://twitter.com/GhosdeeriTheGod">
     <img align="center" src="https://img.shields.io/badge/Twitter-inactive?style=for-the-badge&logo=twitter&color=00acee&logoColor=FFFFFF" alt="Twitter" />
   </a>
-  
+  <div style="white-space: pre">
+    
+    
+  </div>
 </p>
-
-<br> <br>
 
 <!-- Langs -->
 
