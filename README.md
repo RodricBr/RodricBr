@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="center" style="font-family: Courier;">Web Application Security Researcher!</h3>
+<h3 align="center"><samp>Web Application Security Researcher!</samp></h3>
 
 ---
   
@@ -19,7 +19,7 @@
 
 <!-- Contacts -->
   
-<h2 align="center">- Contacts & Other Stuff:</h2>
+<h2 align="center"><samp>- Contacts & Other Stuff:</samp></h2>
 
 <p align="center">
   
@@ -41,7 +41,7 @@
 
 <!-- Langs -->
 
-<h2 align="center">- Languages, Knowledge & Statistics:</h2>
+<h2 align="center"><samp>- Languages, Knowledge & Statistics:</samp></h2>
 
 <p align="center">
   
@@ -98,7 +98,7 @@ Fazendo request em loop no BASH pro contador hehehe >:D
 for i in {1..1337}; do curl -sk "https://profile-counter.glitch.me/rodricbr/count.svg"; done
 -->
 
-<h4 align="center">Profile View Counter:</h4>
+<h4 align="center"><samp>Profile View Counter:</samp></h4>
 
 <p align="center">
   <a href="http://www.pudim.com.br/">
