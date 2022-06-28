@@ -5,7 +5,9 @@
 </p>
 
 
-<h3 align="center"><samp>Web Application Security Researcher!</samp></h3>
+<h3 align="center"><samp><b>
+Web Application Security Researcher!</b></samp>
+</h3>
 
 ---
   
