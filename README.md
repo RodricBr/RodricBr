@@ -5,17 +5,17 @@
 </p>
 
 
-<h3 align="center"><samp>Web Application Security Researcher!</samp></h3>
+<h3 align="center">Web Application Security Researcher!</h3>
 
 ---
   
-- 🧙 I'm a **21 year old man** from **Brazil** 🇧🇷
+- 🧙 <samp>I'm a **21 year old man** from **Brazil** 🇧🇷</samp>
 
-- 📚 Currently studying for **Red Team**, focusing on **Web application security**
+- 📚 <samp>Currently studying for **Red Team**, focusing on **Web application security**</samp>
 
-- 🔎 Bug Hunter at **HackerOne**
+- 🔎 <samp>Bug Hunter at **HackerOne**</samp>
  
-- 💻 I love doing shell/bash script automated reconnaissance tools for my bug hunting activities!
+- 💻 <samp>I love doing shell/bash script automated reconnaissance tools for my bug hunting activities!</samp>
 
 <!-- Contacts -->
   
