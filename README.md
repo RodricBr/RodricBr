@@ -26,15 +26,19 @@ Web Application Security Researcher!</b></samp>
 <p align="center">
   
   <a href="https://discordapp.com/users/418206745589186571">
-    <img align="center" src="https://img.shields.io/badge/Discord-inactive?style=for-the-badge&logo=Discord&color=214CB0&logoColor=FFFFFF" alt="Discord" title="Rodric#3221" />
+    <img align="center" src="https://img.shields.io/badge/Discord-inactive?style=for-the-badge&logo=Discord&color=214CB0&logoColor=FFFFFF" alt="My Discord" title="Rodric#3221" />
   </a>
   <!--&nbsp;&nbsp;-->
   <a href="https://hackerone.com/rodricbr">
-    <img align="center" src="https://img.shields.io/badge/HackerOne-inactive?style=for-the-badge&logo=Hackerone&color=1B1B1B&logoColor=FFFFFF" alt="HackerOne" />
+    <img align="center" src="https://img.shields.io/badge/HackerOne-inactive?style=for-the-badge&logo=Hackerone&color=1B1B1B&logoColor=FFFFFF" alt="My HackerOne" />
   </a>
 
   <a href="https://twitter.com/GhosdeeriTheGod">
-    <img align="center" src="https://img.shields.io/badge/Twitter-inactive?style=for-the-badge&logo=twitter&color=00acee&logoColor=FFFFFF" alt="Twitter" />
+    <img align="center" src="https://img.shields.io/badge/Twitter-inactive?style=for-the-badge&logo=twitter&color=00acee&logoColor=FFFFFF" alt="My Twitter" />
+  </a>
+  
+  <a href="https://medium.com/@rodricbr">
+    <img align="center" src="https://img.shields.io/badge/Medium-inactive?style=for-the-badge&logo=medium&color=0C0C0C&logoColor=FFFFFF" alt="My Medium" />
   </a>
   
 </p>
