@@ -107,7 +107,9 @@ for i in {1..1337}; do curl -sk "https://profile-counter.glitch.me/rodricbr/coun
 <h4 align="center"><samp>Profile View Counter:</samp></h4>
 
 <p align="center">
-  <a href="http://www.pudim.com.br/">
-    <img align="center" src="https://profile-counter.glitch.me/rodricbr/count.svg" title="Totally not me refreshing the page to get 'views' >:D"/>
-  </a>
+  <kbd>
+    <a href="http://www.pudim.com.br/">
+      <img align="center" src="https://profile-counter.glitch.me/rodricbr/count.svg" title="Totally not me refreshing the page to get 'views' >:D"/>
+    </a>
+  </kbd>
 </p>
