@@ -1,5 +1,7 @@
 <!-- Header -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7e00fa&height=120&section=header">
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=4200&color=1BC53B&height=50&lines=echo+%22Ol%C3%A1%2C+mundo!%22&center=true" alt="Typing" />
 </p>
