@@ -117,3 +117,7 @@ for i in {1..1337}; do curl -sk "https://profile-counter.glitch.me/rodricbr/coun
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1BC53B&height=100&section=footer">
+
+<!--
+Emoji: 👨%E2%80%8D💻%Rodric%20👨%E2%80%8D💻
+-->
