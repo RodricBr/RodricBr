@@ -8,7 +8,7 @@
 
 
 <h3 align="center"><samp><b>
-Web Application Security Researcher!</b></samp>
+Web Application Security Researcher</b></samp>
 </h3>
 
 ---
@@ -19,7 +19,7 @@ Web Application Security Researcher!</b></samp>
 
 - 🔎 <samp>Bug Hunter at **HackerOne** (currently focusing on something else)</samp>
  
-- 💻 <samp>I love doing shell/bash script automated reconnaissance tools for my bug hunting activities!</samp>
+- 💻 <samp>I love doing shell/bash script automated reconnaissance tools for my bug hunting activities.</samp>
 
 <!-- Contacts -->
   
