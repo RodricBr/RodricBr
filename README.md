@@ -53,6 +53,18 @@ Web Application Security Researcher</b></samp>
 
 <p align="center">
   
+  <a href="https://en.wikipedia.org/wiki/Shell_script">
+    <img align="center" src="https://img.shields.io/badge/Shell/Bash-inactive?style=for-the-badge&logo=GNU+Bash&color=4EAA25&logoColor=FFFFFF" alt="Shell and Bash" title="Shell and Bash (Command Line Interface)"/>
+  </a>
+  
+  <a href="https://www.debian.org/">
+    <img align="center" src="https://img.shields.io/badge/Debian-grey?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF" alt="Debian" title="Debian GNU/Linux Distribution"/>
+  </a>
+  
+  <a href="https://www.gnu.org/">
+    <img align="center" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&message=Linux&logo=linux&logoColor=black" alt="Gnu/Linux" title="GNU/Linux"/>
+  </a>
+  
   <a href="https://www.python.org/">
     <img align="center" src="https://img.shields.io/badge/-Python%20Language-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python 3" title="Python Programming Language"/>
   </a>
@@ -71,18 +83,6 @@ Web Application Security Researcher</b></samp>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img align="center" src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3" alt="CSS 3" title="CSS Cascading Sheet Language"/>
-  </a>
-  
-  <a href="https://www.gnu.org/">
-    <img align="center" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&message=Linux&logo=linux&logoColor=black" alt="Gnu/Linux" title="GNU/Linux"/>
-  </a>
-  
-  <a href="https://en.wikipedia.org/wiki/Shell_script">
-    <img align="center" src="https://img.shields.io/badge/Shell/Bash-inactive?style=for-the-badge&logo=GNU+Bash&color=4EAA25&logoColor=FFFFFF" alt="Shell and Bash" title="Shell and Bash (Command Line Interface)"/>
-  </a>
-  
-  <a href="https://www.debian.org/">
-    <img align="center" src="https://img.shields.io/badge/Debian-grey?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF" alt="Debian" title="Debian GNU/Linux Distribution"/>
   </a>
   
 </p>
