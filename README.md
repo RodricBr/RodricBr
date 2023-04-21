@@ -13,11 +13,11 @@ Web Application Security Researcher</b></samp>
 
 ---
   
-- 🧙 <samp>I'm a **21 year old man** from **Brazil** 🇧🇷</samp>
+- 🧙 <samp>I'm a **22 year old man** from **Brazil** 🇧🇷</samp>
 
-- 📚 <samp>Currently studying for **Red Team**, focusing on **Web application security**</samp>
+<!--- 📚 <samp>Currently studying for **Red Team**, focusing on **Web application security**</samp>
 
-- 🔎 <samp>Bug Hunter at **HackerOne** (currently focusing on something else)</samp>
+- 🔎 <samp>Bug Hunter at **HackerOne** (currently focusing on something else)</samp>-->
  
 - 💻 <samp>I love doing shell/bash script automated reconnaissance tools for my bug hunting activities.</samp>
 
