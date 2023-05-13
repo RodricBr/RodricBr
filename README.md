@@ -19,7 +19,7 @@ Web Application Security Researcher</b></samp>
 
 - 🔎 <samp>Bug Hunter at **HackerOne** (currently focusing on something else)</samp>-->
  
-- 💻 <samp>GNU Linux and Shell/Bash script enthusiast.</samp>
+- 💻 <samp>GNU/Linux and Shell/Bash script enthusiast.</samp>
 
 <!-- Contacts -->
   
