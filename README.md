@@ -26,7 +26,7 @@ Web Application Security Researcher</b></samp>
 <h2 align="center"><samp>- Contacts & Other Stuff:</samp></h2>
 
 <p align="center">
-  <a href="infosec.rodrigo@gmail.com">
+  <a href="mailto:infosec.rodrigo@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Email-inactive?style=for-the-badge&logo=gmail&color=f2f3f3&logoColor=c6483a" alt="Contact Email" />
   </a
   
