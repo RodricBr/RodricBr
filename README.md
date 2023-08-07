@@ -26,6 +26,9 @@ Web Application Security Researcher</b></samp>
 <h2 align="center"><samp>- Contacts & Other Stuff:</samp></h2>
 
 <p align="center">
+  <a href="infosec.rodrigo@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email-inactive?style=for-the-badge&logo=gmail&color=f2f3f3&logoColor=c6483a" alt="Contact Email" />
+  </a
   
   <a href="https://discordapp.com/users/418206745589186571">
     <img align="center" src="https://img.shields.io/badge/Discord-inactive?style=for-the-badge&logo=Discord&color=214CB0&logoColor=FFFFFF" alt="My Discord" title="Rodric#3221" />
@@ -42,7 +45,6 @@ Web Application Security Researcher</b></samp>
   <a href="https://medium.com/@rodricbr">
     <img align="center" src="https://img.shields.io/badge/Medium-inactive?style=for-the-badge&logo=medium&color=0C0C0C&logoColor=FFFFFF" alt="My Medium" />
   </a>
-  
 </p>
 
 <br> <br>
