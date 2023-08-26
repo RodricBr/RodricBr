@@ -38,8 +38,8 @@ Web Application Security Researcher</b></samp>
     <img align="center" src="https://img.shields.io/badge/HackerOne-inactive?style=for-the-badge&logo=Hackerone&color=1B1B1B&logoColor=FFFFFF" alt="My HackerOne" />
   </a>
 
-  <a href="https://twitter.com/GhosdeeriTheGod">
-    <img align="center" src="https://img.shields.io/badge/Twitter-inactive?style=for-the-badge&logo=twitter&color=00acee&logoColor=FFFFFF" alt="My Twitter" />
+  <a href="https://twitter.com/rodricbr_">
+    <img align="center" src="https://img.shields.io/badge/Twitter-inactive?style=for-the-badge&logo=twitter&color=00acee&logoColor=FFFFFF" alt="My Twitter/X" />
   </a>
   
   <a href="https://medium.com/@rodricbr">
