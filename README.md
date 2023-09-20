@@ -64,7 +64,7 @@ Web Application Security Researcher</b></samp>
   </a>
   
   <a href="https://www.gnu.org/">
-    <img align="center" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&message=Linux&logo=linux&logoColor=black" alt="Gnu/Linux" title="GNU/Linux"/>
+    <img align="center" src="https://img.shields.io/badge/GNU/Linux-E34F26?style=for-the-badge&message=Linux&logo=linux&logoColor=black" alt="Gnu/Linux" title="GNU/Linux"/>
   </a>
   
   <a href="https://www.python.org/">
@@ -121,5 +121,5 @@ for i in {1..1337}; do curl -sk "https://profile-counter.glitch.me/rodricbr/coun
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1BC53B&height=100&section=footer">
 
 <!--
-Emoji: 👨%E2%80%8D💻%Rodric%20👨%E2%80%8D💻
+test: 👨%E2%80%8D💻%Rodric%20👨%E2%80%8D💻
 -->
