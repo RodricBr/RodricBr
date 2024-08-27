@@ -8,7 +8,7 @@
 
 
 <h3 align="center"><samp><b>
-Web Application Security Researcher</b></samp>
+Web Application Security Researcher / Pentester</b></samp>
 </h3>
 
 ---
