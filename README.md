@@ -43,8 +43,8 @@ Web Application Security Researcher / Pentester</b></samp>
     <img align="center" src="https://img.shields.io/badge/HackerOne-inactive?style=for-the-badge&logo=Hackerone&color=1B1B1B&logoColor=FFFFFF" alt="My HackerOne" />
   </a>
 
-  <a href="https://twitter.com/rodricbr_">
-    <img align="center" src="https://img.shields.io/badge/Twitter-inactive?style=for-the-badge&logo=twitter&color=00acee&logoColor=FFFFFF" alt="My Twitter/X" />
+  <a href="https://x.com/rodricbr_">
+    <img align="center" src="https://img.shields.io/badge/Twitter-inactive?style=for-the-badge&logo=x&color=000000&logoColor=FFFFFF" alt="My X" />
   </a>
   
   <a href="https://medium.com/@rodricbr">
