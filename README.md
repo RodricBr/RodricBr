@@ -21,6 +21,8 @@ Web Application Security Researcher / Pentester</b></samp>
  
 - 💻 <samp>GNU/Linux and Shell/Bash script enthusiast.</samp>
 
+- 🔎 <samp>In God we trust, all the rest we monitor.</samp>
+
 <!-- Contacts -->
   
 <h2 align="center"><samp>- Contacts & Other Stuff:</samp></h2>
