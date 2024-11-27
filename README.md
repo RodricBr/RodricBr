@@ -33,12 +33,12 @@ Web Application Security Researcher / Pentester</b></samp>
   </a
 
   <p align="center">
-  <a href="https://vaporhole.xyz/~rodric/">
-    <img align="center" src="https://img.shields.io/badge/VaporHole-inactive?style=for-the-badge&logo=alibabacloud&color=0c0c14&logoColor=27f335" alt="Website" />
+  <a href="[https://vaporhole.xyz/~rodric/](https://www.linkedin.com/in/rodrigo-offsec/)">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-inactive?style=for-the-badge&logo=linkedin&color=0c0c14&logoColor=58b2fd" alt="LinkedIn" />
   </a
   
   <a href="https://discordapp.com/users/418206745589186571">
-    <img align="center" src="https://img.shields.io/badge/Discord-inactive?style=for-the-badge&logo=Discord&color=214CB0&logoColor=FFFFFF" alt="My Discord" title="Rodric#3221" />
+    <img align="center" src="https://img.shields.io/badge/Discord-inactive?style=for-the-badge&logo=Discord&color=214CB0&logoColor=FFFFFF" alt="My Discord" title="rodricbr" />
   </a>
   <!--&nbsp;&nbsp;-->
   <a href="https://hackerone.com/rodricbr">
