@@ -46,7 +46,7 @@ Web Application Security Researcher / Pentester</b></samp>
   </a>
 
   <a href="https://x.com/rodricbr_">
-    <img align="center" src="https://img.shields.io/badge/Twitter-inactive?style=for-the-badge&logo=x&color=000000&logoColor=FFFFFF" alt="My X" />
+    <img align="center" src="https://img.shields.io/badge/X-inactive?style=for-the-badge&logo=x&color=000000&logoColor=FFFFFF" alt="My X" />
   </a>
   
   <a href="https://medium.com/@rodricbr">
