@@ -16,12 +16,12 @@ Web Application Security Researcher / Pentester</b></samp>
 - 🧙 <samp>I'm a **23 year old man** from **Rio de Janeiro - Brazil**.</samp>
 
 <!--- 📚 <samp>Currently studying for **Red Team**, focusing on **Web application security**</samp>
-
-- 🔎 <samp>Bug Hunter at **HackerOne** (currently focusing on something else)</samp>-->
+-->
+- 🔎 <samp>Bug Hunter</samp>
  
-- 💻 <samp>GNU/Linux and Shell/Bash script enthusiast.</samp>
+- 💻 <samp>GNU/Linux and Shell/Bash script enthusiast</samp>
 
-- 🔎 <samp>In God we trust, all the rest we monitor.</samp>
+- 🔎 <samp>In God we trust, all the rest we monitor</samp>
 
 <!-- Contacts -->
   
