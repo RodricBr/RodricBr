@@ -33,7 +33,7 @@ Web Application Security Researcher / Pentester</b></samp>
   </a
 
   <p align="center">
-  <a href="[https://vaporhole.xyz/~rodric/](https://www.linkedin.com/in/rodrigo-offsec/)">
+  <a href="https://www.linkedin.com/in/rodrigo-offsec/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-inactive?style=for-the-badge&logo=linkedin&color=0c0c14&logoColor=58b2fd" alt="LinkedIn" />
   </a
   
