@@ -13,7 +13,7 @@ Web Application Security Researcher / Pentester</b></samp>
 
 ---
   
-- 🧙 <samp>I'm a **23 year old man** from **Rio de Janeiro - Brazil**.</samp>
+- 🧙 <samp>I'm a **23 year old man** from **Rio de Janeiro - Brazil**</samp>
 
 <!--- 📚 <samp>Currently studying for **Red Team**, focusing on **Web application security**</samp>
 -->
