@@ -11,6 +11,10 @@
 Web Application Security Researcher / Pentester</b></samp>
 </h3>
 
+<p align="center">
+<a href="https://tron-rodricbr.tiiny.site/">Welcome to The Grid</a>
+</p>
+
 ---
   
 - 🧙 <samp>I'm a **23 year old man** from **Rio de Janeiro - Brazil**</samp>
@@ -119,7 +123,7 @@ for i in {1..1337}; do curl -sk "https://profile-counter.glitch.me/rodricbr/coun
 
 <p align="center">
   <kbd>
-    <a href="http://www.pudim.com.br/">
+    <a href="#">
       <img align="center" src="https://profile-counter.glitch.me/rodricbr/count.svg">
     </a>
   </kbd>
