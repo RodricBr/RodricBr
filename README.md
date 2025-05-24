@@ -85,7 +85,11 @@ Cyber Security Analyst & Penetration Tester</b></samp>
   <a href="https://www.gnu.org/">
     <img align="center" src="https://img.shields.io/badge/GNU/Linux-E34F26?style=for-the-badge&message=Linux&logo=linux&logoColor=black&color=A6A6A6" alt="Gnu/Linux" title="GNU/Linux">
   </a>
-  
+
+  <a href="#">
+    <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" title="Windows">
+  </a>
+
   <a href="https://www.python.org/">
     <img align="center" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python 3" title="Python Programming Language">
   </a>
