@@ -74,6 +74,10 @@ Cyber Security Analyst & Penetration Tester</b></samp>
     <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   </a>
 
+  <a href="https://en.wikipedia.org/wiki/MX_Linux">
+    <img align="center" src="https://img.shields.io/badge/-MX%20Linux-%23000000?style=for-the-badge&logo=MXlinux&logoColor=white" alt="MX Linux">
+  </a>
+
   <a href="https://en.wikipedia.org/wiki/Slackware">
     <img align="center" src="https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white" alt="Slackware">
   </a>
