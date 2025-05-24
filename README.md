@@ -73,6 +73,10 @@ Cyber Security Analyst & Penetration Tester</b></samp>
   <a href="https://en.wikipedia.org/wiki/Ubuntu">
     <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   </a>
+
+  <a href="https://en.wikipedia.org/wiki/Slackware">
+    <img align="center" src="https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white" alt="Slackware">
+  </a>
   
   <a href="https://www.gnu.org/">
     <img align="center" src="https://img.shields.io/badge/GNU/Linux-E34F26?style=for-the-badge&message=Linux&logo=linux&logoColor=black&color=A6A6A6" alt="Gnu/Linux" title="GNU/Linux">
@@ -104,6 +108,10 @@ Cyber Security Analyst & Penetration Tester</b></samp>
 
   <a href="https://en.wikipedia.org/wiki/Nodejs">
     <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)">
+    <img align="center" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&color=CE412B" alt="Rust">
   </a>
 </p>
 
