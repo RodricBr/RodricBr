@@ -118,6 +118,10 @@ Cyber Security Analyst & Penetration Tester</b></samp>
     <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
   </a>
 
+  <a href="https://en.wikipedia.org/wiki/Reactjs">
+    <img align="center" src="https://img.shields.io/badge/react.js-fff?style=for-the-badge&logo=react&logoColor=61dbfb" alt="ReactJS">
+  </a>
+
   <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)">
     <img align="center" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&color=CE412B" alt="Rust">
   </a>
