@@ -7,8 +7,8 @@
 </p>
 
 
-<h3 align="center"><samp><b>
-Cyber Security Analyst & Penetration Tester</b></samp>
+<h3 align="center">
+  <b><samp>I'm a Cyber Security Analyst & Penetration Tester</samp></b>
 </h3>
 
 <p align="center">
@@ -43,6 +43,10 @@ Cyber Security Analyst & Penetration Tester</b></samp>
 
   <a href="https://hackerone.com/rodricbr">
     <img align="center" src="https://img.shields.io/badge/HackerOne-inactive?style=for-the-badge&logo=Hackerone&color=1B1B1B&logoColor=FFFFFF" alt="My HackerOne">
+  </a>
+
+  <a href="https://tryhackme.com/p/rodricBr">
+    <img align="center" src="https://img.shields.io/badge/TryHackMe-inactive?style=for-the-badge&logo=TryHackMe&color=1B1B1B&logoColor=c01111" alt="TryHackMe">
   </a>
 
   <a href="https://x.com/rodricbr_">
@@ -143,11 +147,11 @@ Cyber Security Analyst & Penetration Tester</b></samp>
 <h4 align="center"><samp>Profile View Counter:</samp></h4>
 
 <p align="center">
-  <kbd>
+  <span>
     <a href="#">
-      <img align="center" src="https://profile-counter.glitch.me/rodricbr/count.svg">
+      <img align="center" src="https://komarev.com/ghpvc/?username=rodricbr&color=grey&style=for-the-badge&abbreviated=true">
     </a>
-  </kbd>
+  </span>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1BC53B&height=100&section=footer">
