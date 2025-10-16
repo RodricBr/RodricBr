@@ -128,7 +128,7 @@ Cyber Security Analyst & Penetration Tester</b></samp>
 
 <p align="center">
   <a href="https://github.com/rodricbr">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodricbr&show_icons=true&theme=dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr" title="My github profile statistics">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodricbr&show_icons=true&theme=dark&border_radius=0&text_color=7FFF7F&count_private=true&include_all_commits=true" alt="RodricBr" title="My github profile statistics">
       <br>
       <br>
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=8&theme=dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr" title="The languages I most use on my github repositories">
