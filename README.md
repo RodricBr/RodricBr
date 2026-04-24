@@ -61,28 +61,27 @@
 
 <p align="center">
   <a href="mailto:infosec.rodrigo@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Email-inactive?style=for-the-badge&logo=gmail&color=000&logoColor=66c1da" alt="Contact Email">
+    <img src="https://img.shields.io/badge/Email-inactive?style=for-the-badge&logo=gmail&color=000&logoColor=66c1da" alt="Contact Email">
   </a>
 
-  <p align="center">
   <a href="https://www.linkedin.com/in/rodrigofour">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-inactive?style=for-the-badge&logo=linkedin&color=000&logoColor=66c1da" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-inactive?style=for-the-badge&logo=linkedin&color=000&logoColor=66c1da" alt="LinkedIn">
   </a>
   
   <a href="https://discordapp.com/users/418206745589186571">
-    <img align="center" src="https://img.shields.io/badge/Discord-inactive?style=for-the-badge&logo=Discord&color=000&logoColor=66c1da" alt="My Discord" title="Tag: rodricbr">
+    <img src="https://img.shields.io/badge/Discord-inactive?style=for-the-badge&logo=Discord&color=000&logoColor=66c1da" alt="My Discord" title="Tag: rodricbr">
   </a>
   
   <a href="https://hackerone.com/rodricbr">
-    <img align="center" src="https://img.shields.io/badge/HackerOne-inactive?style=for-the-badge&logo=Hackerone&color=000&logoColor=66c1da" alt="My HackerOne">
+    <img src="https://img.shields.io/badge/HackerOne-inactive?style=for-the-badge&logo=Hackerone&color=000&logoColor=66c1da" alt="My HackerOne">
   </a>
 
   <a href="https://tryhackme.com/p/rodricBr">
-    <img align="center" src="https://img.shields.io/badge/TryHackMe-inactive?style=for-the-badge&logo=TryHackMe&color=000&logoColor=66c1da" alt="TryHackMe">
+    <img src="https://img.shields.io/badge/TryHackMe-inactive?style=for-the-badge&logo=TryHackMe&color=000&logoColor=66c1da" alt="TryHackMe">
   </a>
 
   <a href="https://medium.com/@rodricbr">
-    <img align="center" src="https://img.shields.io/badge/Medium-inactive?style=for-the-badge&logo=medium&color=0C0C0C&logoColor=66c1da" alt="My Medium">
+    <img src="https://img.shields.io/badge/Medium-inactive?style=for-the-badge&logo=medium&color=0C0C0C&logoColor=66c1da" alt="My Medium">
   </a>
 </p>
 
@@ -117,7 +116,7 @@
   </a>
 </p>
 
-<h3 align="left"><samp>• Softwares</samp></h2>
+<h3 align="left"><samp>• Technologies</samp></h2>
 <p align="left">
   <a href="https://www.gnu.org/">
     <img align="center" src="https://img.shields.io/badge/GNU/Linux-E34F26?style=for-the-badge&message=Linux&logo=linux&logoColor=black&color=A6A6A6" alt="Gnu/Linux" title="GNU/Linux">
@@ -138,10 +137,16 @@
     <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c" alt="C Language" title="C Programming Language">
   </a>
 
+  <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)">
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&color=CE412B" alt="Rust">
+  </a>
+
   <a href="https://www.php.net/">
     <img src="https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php&color=7952B3&logoColor=FFFFFF" alt="PHP Language" title="PHP Programming Language">
   </a>
 
+  <br>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML 5" title="HTML Markup Language">
   </a>
@@ -153,6 +158,10 @@
   <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
+  
+  <a href="https://en.wikipedia.org/wiki/TypeScript">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
 
   <a href="https://en.wikipedia.org/wiki/Nodejs">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
@@ -160,10 +169,6 @@
 
   <a href="https://en.wikipedia.org/wiki/Reactjs">
     <img src="https://img.shields.io/badge/react.js-fff?style=for-the-badge&logo=react&logoColor=61dbfb" alt="ReactJS">
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)">
-    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&color=CE412B" alt="Rust">
   </a>
 </p>
 
