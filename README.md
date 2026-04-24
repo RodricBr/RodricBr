@@ -95,81 +95,34 @@
 <h3 align="left"><samp>• Operating Systems</samp></h2>
 
 <p align="left">
-  <a href="https://www.debian.org/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Debian-grey?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF" alt="Debian" title="Debian GNU/Linux Distribution">
-  </a>
-  
-  <a href="https://en.wikipedia.org/wiki/Ubuntu" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  </a>
-  
-  <a href="https://en.wikipedia.org/wiki/MX_Linux" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-MX%20Linux-%23000000?style=for-the-badge&logo=MXlinux&logoColor=white" alt="MX Linux">
-  </a>
-  
-  <a href="https://en.wikipedia.org/wiki/Slackware" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white" alt="Slackware">
-  </a>
-
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" title="Windows">
-  </a>
+  <img src="https://img.shields.io/badge/Debian-grey?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF" alt="Debian" title="Debian GNU/Linux Distribution">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/-MX%20Linux-%23000000?style=for-the-badge&logo=MXlinux&logoColor=white" alt="MX Linux">
+  <img src="https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white" alt="Slackware">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" title="Windows">
 </p>
 
 <h3 align="left"><samp>• Technologies</samp></h2>
 <p align="left">
-  <a href="https://www.gnu.org/">
     <img align="center" src="https://img.shields.io/badge/GNU/Linux-E34F26?style=for-the-badge&message=Linux&logo=linux&logoColor=black&color=A6A6A6" alt="Gnu/Linux" title="GNU/Linux">
-  </a>
 </p>
 
 <h3 align="left"><samp>• Languages (Programming / Front & Back)</samp></h2>
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/Shell_script">
-    <img src="https://img.shields.io/badge/Shell/Bash-inactive?style=for-the-badge&logo=GNU+Bash&color=4EAA25&logoColor=FFFFFF" alt="Shell and Bash" title="Shell and Bash (Command Line Interface)">
-  </a>
-
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python 3" title="Python Programming Language">
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c" alt="C Language" title="C Programming Language">
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)">
-    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&color=CE412B" alt="Rust">
-  </a>
-
-  <a href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php&color=7952B3&logoColor=FFFFFF" alt="PHP Language" title="PHP Programming Language">
-  </a>
+  <img src="https://img.shields.io/badge/Shell/Bash-inactive?style=for-the-badge&logo=GNU+Bash&color=4EAA25&logoColor=FFFFFF" alt="Shell and Bash" title="Shell and Bash (Command Line Interface)">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python 3" title="Python Programming Language">
+  <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c" alt="C Language" title="C Programming Language">
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&color=CE412B" alt="Rust">
+  <img src="https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php&color=7952B3&logoColor=FFFFFF" alt="PHP Language" title="PHP Programming Language">
 
   <br>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML 5" title="HTML Markup Language">
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3" alt="CSS 3" title="CSS Cascading Sheet Language">
-  </a>
 
-  <a href="https://en.wikipedia.org/wiki/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  
-  <a href="https://en.wikipedia.org/wiki/TypeScript">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Nodejs">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Reactjs">
-    <img src="https://img.shields.io/badge/react.js-fff?style=for-the-badge&logo=react&logoColor=61dbfb" alt="ReactJS">
-  </a>
+  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML 5" title="HTML Markup Language">
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3" alt="CSS 3" title="CSS Cascading Sheet Language">
+  <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/react.js-fff?style=for-the-badge&logo=react&logoColor=61dbfb" alt="ReactJS">
 </p>
 
 <br> <br>
