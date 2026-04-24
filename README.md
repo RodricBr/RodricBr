@@ -111,6 +111,8 @@
   <img src="https://img.shields.io/badge/GNU/Linux-E34F26?style=for-the-badge&message=Linux&logo=linux&logoColor=black&color=A6A6A6" alt="Gnu/Linux" title="GNU/Linux">
   <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&message=GIT&logo=git&logoColor=black&color=F1502F" alt="GIT" title="GIT">
   <img src="https://img.shields.io/badge/wordpress-E34F26?style=for-the-badge&message=Wordpress&logo=wordpress&logoColor=white&color=21759b" alt="Wordpress" title="Wordpress">
+  <img src="https://img.shields.io/badge/Apache-E34F26?style=for-the-badge&message=Wordpress&logo=apache&logoColor=F69824&color=fff" alt="Apache" title="Apache">
+  <img src="https://img.shields.io/badge/Nginx-E34F26?style=for-the-badge&message=Nginx&logo=nginx&logoColor=009639&color=fff" alt="nginx" title="nginx">
 </p>
 
 <h3 align="left"><samp>• Languages (Programming / Front & Back)</samp></h2>
