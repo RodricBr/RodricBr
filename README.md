@@ -53,7 +53,7 @@
 
 <hr>
 
-<br>
+<br> <br>
 
 <!-- Contacts -->
   
@@ -91,7 +91,7 @@
 
 <!-- Langs -->
 
-<h2 align="center"><samp>> Skills, Knowledge & Profile Statistics:</samp></h2>
+<h2 align="center"><samp>> Skills, Knowledge</samp></h2>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Shell_script">
@@ -159,8 +159,12 @@
   </a>
 </p>
 
+<br> <br>
+
 
 <!-- Stats -->
+
+<h2 align="center"><samp>> Profile Stats:</samp></h2>
 
 <p align="center">
   <a href="https://github.com/rodricbr">
