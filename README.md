@@ -7,15 +7,17 @@
 </p>
 
 
-
-<h3 align="center">
+<h2 align="center">
   <b><samp>Cyber Security • Pentesting</samp></b>
-</h3>
+</h2>
 
+<br>
 
 <p align="center">
   <a href="https://tron-rodricbr.tiiny.site/">Welcome to The Grid</a>
 </p>
+
+<br>
 
 <hr>
 
