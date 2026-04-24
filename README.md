@@ -42,7 +42,7 @@ Currently working on building pentesting tools and personal projects.
 
 </td>
 <td width="40%" align="center">
-<img src="img/code.gif" height="350"/>
+<img src="img/codes.gif" height="350"/>
 
 </td>
 
