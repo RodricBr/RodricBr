@@ -1,9 +1,9 @@
 <!-- Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1BC53B&height=100&section=header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=72C7E1&height=100&section=header">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=3500&color=1BC53B&center=true&height=50&lines=echo%20%22Ol%C3%A1,%20mundo!%22;echo%20%22Hello,%20world!%22;Welcome%20to%20my%20profile!" alt="Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=3500&color=86D3EB&center=true&height=50&lines=echo%20%22Ol%C3%A1,%20mundo!%22;echo%20%22Hello,%20world!%22;Welcome%20to%20my%20profile!" alt="Typing" />
 </p>
 
 
@@ -15,11 +15,42 @@
 <a href="https://tron-rodricbr.tiiny.site/">Welcome to The Grid</a>
 </p>
 
----
-  
-- 🧙 <samp>I'm a **24 year old man** from **Rio de Janeiro - Brazil**</samp>
+<hr>
 
-- 💻 <samp>Cyber Security, GNU/Linux and Shell/Bash script enthusiast</samp>
+<div align="center">
+<table>
+<tr>
+
+<td width="60%">
+
+<h3 style="font-weight: bold;">• About Me</h3>
+
+I'm a **Cyber Security and Infrastructure Engineer** passionate about:
+
+-  Pentesting, Red Team and Cyber Security
+-  GNU/Linux, UNIX and Open Source
+-  Server configuration and Hardening
+
+<hr>
+
+Currently working on building pentesting tools and personal projects.
+
+- From Rio de Janeiro - Brazil
+- Self taught constant learner and open to collaborations
+
+ > "The beauty of being an eternal learner"
+
+</td>
+<td width="40%" align="center">
+<img src="img/code.gif" height="350"/>
+
+</td>
+
+</tr>
+</table>
+</div>
+
+<hr>
 
 <br>
 
@@ -136,10 +167,10 @@
 
 <p align="center">
   <a href="https://github.com/rodricbr">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodricbr&show_icons=true&theme=dark&border_radius=0&text_color=7FFF7F&count_private=true&include_all_commits=true" alt="RodricBr" title="My github profile statistics">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodricbr&show_icons=true&theme=dark&border_radius=0&text_color=2596be&count_private=true&include_all_commits=true" alt="RodricBr" title="My github profile statistics">
       <br>
       <br>
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=8&theme=dark&border_radius=0&text_color=7FFF7F&count_private=true" alt="RodricBr" title="The languages I most use on my github repositories">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=8&theme=dark&border_radius=0&text_color=60BBDC&count_private=true" alt="RodricBr" title="The languages I most use on my github repositories">
       <br>
   </a>
 </p>
@@ -154,4 +185,4 @@
   </span>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1BC53B&height=100&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=72C7E1&height=100&section=footer">
