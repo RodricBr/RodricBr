@@ -7,47 +7,48 @@
 </p>
 
 
+
 <h3 align="center">
-  <b><samp>I'm a Cyber Security Analyst & Penetration Tester</samp></b>
+  <b><samp>Cyber Security • Pentesting</samp></b>
 </h3>
 
+
 <p align="center">
-<a href="https://tron-rodricbr.tiiny.site/">Welcome to The Grid</a>
+  <a href="https://tron-rodricbr.tiiny.site/">Welcome to The Grid</a>
 </p>
 
 <hr>
 
 <div align="center">
-<table>
-<tr>
+  <table>
+  <tr>
+  
+  <td width="60%">
+  
+  <h3 style="font-weight: bold;">• About Me</h3>
+  
+  I'm a **Cyber Security and Infrastructure Engineer** passionate about:
+  
+  -  Pentesting, Red Team and Cyber Security
+  -  GNU/Linux, UNIX and Open Source
+  -  Server configuration and Hardening
+  
+  <hr>
+  
+  Currently working on building pentesting tools and personal projects.
+  
+  - From Rio de Janeiro - Brazil
+  - Self taught constant learner and open to collaborations
+  
+   > "The beauty of being an eternal learner"
+  <br>
 
-<td width="60%">
-
-<h3 style="font-weight: bold;">• About Me</h3>
-
-I'm a **Cyber Security and Infrastructure Engineer** passionate about:
-
--  Pentesting, Red Team and Cyber Security
--  GNU/Linux, UNIX and Open Source
--  Server configuration and Hardening
-
-<hr>
-
-Currently working on building pentesting tools and personal projects.
-
-- From Rio de Janeiro - Brazil
-- Self taught constant learner and open to collaborations
-
- > "The beauty of being an eternal learner"
-
-</td>
-<td width="40%" align="center">
-<img src="img/codes.gif" height="350"/>
-
-</td>
-
-</tr>
-</table>
+  </td>
+  <td width="40%" align="center">
+    <img src="img/codes.gif" height="350"/>
+  </td>
+  </tr>
+  </table>
 </div>
 
 <hr>
@@ -56,36 +57,32 @@ Currently working on building pentesting tools and personal projects.
 
 <!-- Contacts -->
   
-<h2 align="center"><samp>- Contacts & Links:</samp></h2>
+<h2 align="center"><samp>> Contacts & Links:</samp></h2>
 
 <p align="center">
   <a href="mailto:infosec.rodrigo@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Email-inactive?style=for-the-badge&logo=gmail&color=f2f3f3&logoColor=c6483a" alt="Contact Email">
+    <img align="center" src="https://img.shields.io/badge/Email-inactive?style=for-the-badge&logo=gmail&color=000&logoColor=66c1da" alt="Contact Email">
   </a>
 
   <p align="center">
   <a href="https://www.linkedin.com/in/rodrigofour">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-inactive?style=for-the-badge&logo=linkedin&color=0077B5&logoColor=58b2fd" alt="LinkedIn">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-inactive?style=for-the-badge&logo=linkedin&color=000&logoColor=66c1da" alt="LinkedIn">
   </a>
   
   <a href="https://discordapp.com/users/418206745589186571">
-    <img align="center" src="https://img.shields.io/badge/Discord-inactive?style=for-the-badge&logo=Discord&color=214CB0&logoColor=FFFFFF" alt="My Discord" title="Tag: rodricbr">
+    <img align="center" src="https://img.shields.io/badge/Discord-inactive?style=for-the-badge&logo=Discord&color=000&logoColor=66c1da" alt="My Discord" title="Tag: rodricbr">
   </a>
-
+  
   <a href="https://hackerone.com/rodricbr">
-    <img align="center" src="https://img.shields.io/badge/HackerOne-inactive?style=for-the-badge&logo=Hackerone&color=1B1B1B&logoColor=FFFFFF" alt="My HackerOne">
+    <img align="center" src="https://img.shields.io/badge/HackerOne-inactive?style=for-the-badge&logo=Hackerone&color=000&logoColor=66c1da" alt="My HackerOne">
   </a>
 
   <a href="https://tryhackme.com/p/rodricBr">
-    <img align="center" src="https://img.shields.io/badge/TryHackMe-inactive?style=for-the-badge&logo=TryHackMe&color=1B1B1B&logoColor=c01111" alt="TryHackMe">
+    <img align="center" src="https://img.shields.io/badge/TryHackMe-inactive?style=for-the-badge&logo=TryHackMe&color=000&logoColor=66c1da" alt="TryHackMe">
   </a>
 
-  <a href="https://x.com/rodricbr_">
-    <img align="center" src="https://img.shields.io/badge/X-inactive?style=for-the-badge&logo=x&color=000000&logoColor=FFFFFF" alt="My X">
-  </a>
-  
   <a href="https://medium.com/@rodricbr">
-    <img align="center" src="https://img.shields.io/badge/Medium-inactive?style=for-the-badge&logo=medium&color=0C0C0C&logoColor=FFFFFF" alt="My Medium">
+    <img align="center" src="https://img.shields.io/badge/Medium-inactive?style=for-the-badge&logo=medium&color=0C0C0C&logoColor=66c1da" alt="My Medium">
   </a>
 </p>
 
@@ -94,7 +91,7 @@ Currently working on building pentesting tools and personal projects.
 
 <!-- Langs -->
 
-<h2 align="center"><samp>- Skills, Knowledge & Profile Statistics:</samp></h2>
+<h2 align="center"><samp>> Skills, Knowledge & Profile Statistics:</samp></h2>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Shell_script">
