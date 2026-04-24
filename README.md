@@ -71,6 +71,8 @@
   <a href="https://discordapp.com/users/418206745589186571">
     <img src="https://img.shields.io/badge/Discord-inactive?style=for-the-badge&logo=Discord&color=000&logoColor=66c1da" alt="My Discord" title="Tag: rodricbr">
   </a>
+
+  <br>
   
   <a href="https://hackerone.com/rodricbr">
     <img src="https://img.shields.io/badge/HackerOne-inactive?style=for-the-badge&logo=Hackerone&color=000&logoColor=66c1da" alt="My HackerOne">
@@ -104,7 +106,8 @@
 
 <h3 align="left"><samp>• Technologies</samp></h2>
 <p align="left">
-    <img align="center" src="https://img.shields.io/badge/GNU/Linux-E34F26?style=for-the-badge&message=Linux&logo=linux&logoColor=black&color=A6A6A6" alt="Gnu/Linux" title="GNU/Linux">
+  <img src="https://img.shields.io/badge/GNU/Linux-E34F26?style=for-the-badge&message=Linux&logo=linux&logoColor=black&color=A6A6A6" alt="Gnu/Linux" title="GNU/Linux">
+  <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&message=GIT&logo=git&logoColor=black&color=F1502F" alt="GIT" title="GIT">
 </p>
 
 <h3 align="left"><samp>• Languages (Programming / Front & Back)</samp></h2>
@@ -133,15 +136,13 @@
 <h2 align="center"><samp>> Profile Stats:</samp></h2>
 
 <p align="center">
-  <a href="https://github.com/rodricbr">
+  <a href="https://github.com/rodricbr"/>
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodricbr&show_icons=true&theme=dark&border_radius=0&text_color=2596be&count_private=true&include_all_commits=true" alt="RodricBr" title="My github profile statistics">
-      <br>
-      <br>
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=8&theme=dark&border_radius=0&text_color=60BBDC&count_private=true" alt="RodricBr" title="The languages I most use on my github repositories">
-      <br>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rodricbr&layout=compact&langs_count=8&theme=dark&border_radius=0&text_color=60BBDC&count_private=true" alt="RodricBr" title="The languages I most use on my github repositories"/>
   </a>
 </p>
 
+<!--
 <h4 align="center"><samp>Profile View Counter:</samp></h4>
 
 <p align="center">
@@ -151,5 +152,8 @@
     </a>
   </span>
 </p>
+-->
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=72C7E1&height=100&section=footer">
