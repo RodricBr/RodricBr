@@ -131,6 +131,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/react.js-fff?style=for-the-badge&logo=react&logoColor=61dbfb" alt="ReactJS">
+  <img src="https://img.shields.io/badge/Astro-6F51D3?style=for-the-badge&message=Astro&logo=astro&logoColor=black&color=white" alt="astro build" title="astro build">
 </p>
 
 <br> <br>
