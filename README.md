@@ -31,13 +31,13 @@
   
   I'm a **Cyber Security and Infrastructure Engineer** passionate about:
   
-  -  Pentesting, Red Team and Cyber Security
-  -  GNU/Linux, UNIX and Open Source
+  -  Pentesting, Threat Analysis and Cyber Security
+  -  GNU/Linux, UNIX and Open Source enthusiast
   -  Server configuration and Hardening
   
   <hr>
   
-  Currently working on building pentesting tools and personal projects.
+  Currently specializing in threat analysis and engineering offensive security tools for linux-based environments.
   
   - From Rio de Janeiro - Brazil
   - Self taught constant learner and open to collaborations
