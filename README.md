@@ -27,7 +27,7 @@
   
   <td width="60%">
   
-  <h3 style="font-weight: bold;">• About Me</h3>
+  <h3 style="font-weight: bold;">> About Me</h3>
   
   I'm a **Cyber Security and Infrastructure Engineer** passionate about:
   
@@ -92,46 +92,56 @@
 <br> <br>
 
 
-<!-- Langs -->
+<!-- Skills -->
 
-<h2 align="center"><samp>> Skills, Knowledge</samp></h2>
+<h2 align="center"><samp>> Skills & Knowledge</samp></h2>
 
-<h3 align="left"><samp>• Operating Systems</samp></h2>
+<h3 align="left"><samp>- Operating Systems</samp></h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Debian-grey?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF" alt="Debian" title="Debian GNU/Linux Distribution">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/-MX%20Linux-%23000000?style=for-the-badge&logo=MXlinux&logoColor=white" alt="MX Linux">
-  <img src="https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white" alt="Slackware">
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white&style=for-the-badge" alt="Windows" title="Windows">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MX_Linux-000000?style=for-the-badge&logo=mxlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slackware-1357BD?style=for-the-badge&logo=slackware&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
 </p>
 
-<h3 align="left"><samp>• Technologies</samp></h2>
+<h3 align="left"><samp>- Systems & Infrastructure</samp></h3>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/GNU/Linux-E34F26?style=for-the-badge&message=Linux&logo=linux&logoColor=black&color=A6A6A6" alt="Gnu/Linux" title="GNU/Linux">
-  <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&message=GIT&logo=git&logoColor=black&color=F1502F" alt="GIT" title="GIT">
-  <img src="https://img.shields.io/badge/wordpress-E34F26?style=for-the-badge&message=Wordpress&logo=wordpress&logoColor=white&color=21759b" alt="Wordpress" title="Wordpress">
-  <img src="https://img.shields.io/badge/Apache-E34F26?style=for-the-badge&message=Wordpress&logo=apache&logoColor=F69824&color=fff" alt="Apache" title="Apache">
-  <img src="https://img.shields.io/badge/Nginx-E34F26?style=for-the-badge&message=Nginx&logo=nginx&logoColor=009639&color=fff" alt="nginx" title="nginx">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zeek-1C1C1C?style=for-the-badge&logo=zeek&logoColor=white"/>
 </p>
 
-<h3 align="left"><samp>• Languages (Programming / Front & Back)</samp></h2>
+<h3 align="left"><samp>- Web & CMS</samp></h3>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Shell/Bash-inactive?style=for-the-badge&logo=GNU+Bash&color=4EAA25&logoColor=FFFFFF" alt="Shell and Bash" title="Shell and Bash (Command Line Interface)">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python 3" title="Python Programming Language">
-  <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c" alt="C Language" title="C Programming Language">
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&color=CE412B" alt="Rust">
-  <img src="https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php&color=7952B3&logoColor=FFFFFF" alt="PHP Language" title="PHP Programming Language">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Astro-111111?style=for-the-badge&logo=astro&logoColor=white"/>
+</p>
 
-  <br>
+<h3 align="left"><samp>- Programming Languages</samp></h3>
 
-  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML 5" title="HTML Markup Language">
-  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3" alt="CSS 3" title="CSS Cascading Sheet Language">
-  <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/react.js-fff?style=for-the-badge&logo=react&logoColor=61dbfb" alt="ReactJS">
-  <img src="https://img.shields.io/badge/Astro-6F51D3?style=for-the-badge&message=Astro&logo=astro&logoColor=black&color=white" alt="astro build" title="astro build">
+<p align="left">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+<h3 align="left"><samp>- Front/Back-end</samp></h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 <br> <br>
