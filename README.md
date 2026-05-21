@@ -42,7 +42,7 @@
   - From Rio de Janeiro - Brazil
   - Self taught constant learner and open to collaborations
   
-   > "The beauty of being an eternal learner"
+   > "Graphical interface is comfort. Shell is control"
   <br>
 
   </td>
