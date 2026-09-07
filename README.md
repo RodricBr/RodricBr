@@ -8,7 +8,7 @@
 
 
 <h2 align="center">
-  <b><samp>Cyber Security • Pentesting</samp></b>
+  <b><samp>Infrastructure • Linux • Security Engineering</samp></b>
 </h2>
 
 <br>
@@ -37,7 +37,7 @@
   
   <hr>
   
-  Currently specializing in threat analysis and engineering offensive security tools for linux-based environments.
+  Currently focused on Linux Infrastructure, Security Engineering, automation with Bash and offensive security research.
   
   - From Rio de Janeiro - Brazil
   - Self taught constant learner and open to collaborations
